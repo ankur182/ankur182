@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning DSA and web designing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+instagram=ankurgautam009
+email=ankurgautam009@gmail.com
 
 <!---
 ankur182/ankur182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
